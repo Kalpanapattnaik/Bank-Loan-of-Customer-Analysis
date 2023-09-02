@@ -1,2 +1,2 @@
-# Bank-Loan-of-Customer-Analysis
+# Project 2 - Bank-Loan-of-Customer-Analysis
 Analysis of bank loan customers to assess creditworthiness and mitigate default risks.
